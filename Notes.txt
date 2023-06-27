@@ -1,0 +1,18 @@
+Okay guys kenna serna b di2a 57:37 bl video aa youtube ekher shi knt aam eeml delete by swipe w aam eshtghgl mn rase saraha nsit houwe shou ken aam yeeml 
+
+hayda link l video : https://www.youtube.com/watch?v=oXcslhSZiVo
+
+
+_TypeError (type 'Null' is not a subtype of type 'QueryDocumentSnapshot<Object?>' of ' in type cast')
+
+
+
+// List item =[
+//   {"img" : "2.jpg", "name" : "W Watch ","price" : "55","desc" : "watch","_isFilled": false, "id" : 1},
+//   {"img" : "3.jpg", "name" : "W Boot One ","price" : "65","desc" : "boot","_isFilled": false, "id" : 2},
+//   {"img" : "4.jpg", "name" : "W Boot Two ","price" : "88","desc" : "boot","_isFilled": false, "id" : 3},
+//   {"img" : "5.jpg", "name" : "W Bag One ","price" : "99","desc" : "bag","_isFilled": false, "id" : 4},
+//   {"img" : "6.jpg", "name" : "W Bag Two ","price" : "35","desc" : "bag","_isFilled": false, "id" : 5},
+//   {"img" : "7.jpg", "name" : "W Bag Three ","price" : "134","desc" : "bag","_isFilled": false, "id" : 6},
+//   {"img" : "8.jpg", "name" : "W Bag Four ","price" : "233","desc" : "bag","_isFilled": false, "id" : 7},
+//  ];
